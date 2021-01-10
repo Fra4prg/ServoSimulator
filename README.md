@@ -12,5 +12,5 @@ This Servo Simulator diplays the output of an RC receiver in microseconds, perce
 * Click on the servos to change the angle of a rudder horn.
 * Click on [nor]/[inv] to change the servo direction.
 
-
+![20191102_115943_HP](https://user-images.githubusercontent.com/76703830/104125576-ff92c100-5357-11eb-8f3b-19af3f7baf80.JPG)
 
